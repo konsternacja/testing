@@ -1,7 +1,4 @@
 # Portfolio
-
-Testing documentation for the Falscify website.
-
 ## About me:
 I am currently studying Biotechnology and Bioinformatics, where I have the opportunity to explore the fascinating world of life sciences and their intersection with computational methods. Apart from my academic pursuits, I am also passionate about software testing. As a software tester, I enjoy the challenge of ensuring that applications and systems meet the highest standards of quality and functionality. My attention to detail and critical thinking skills allow me to identify issues and provide valuable feedback to improve software reliability.
 
