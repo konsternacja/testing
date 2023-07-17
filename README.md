@@ -17,6 +17,9 @@ I am currently studying Biotechnology and Bioinformatics, where I have the oppor
 - writing functions, algorithms
 - AI/ML methods
 
+## Projects
+- I am responsible for the automation testing of the [Falscify](https://github.com/Falscify/falscify-testing) website
+
 ## Tools:
 - JIRA
 - BrowserStack
