@@ -21,6 +21,8 @@ I am currently studying Biotechnology and Bioinformatics, where I have the oppor
 - I am responsible for the automation testing of the [Falscify](https://github.com/Falscify/falscify-testing) website
 
 ## Tools:
+- VSCode
+- Notion
 - JIRA
 - BrowserStack
 - TestLink
